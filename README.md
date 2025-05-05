@@ -115,9 +115,8 @@ JechSpace is a full-stack platform that enables:
 ## 📩 Contact Us
 
 Interested in partnering or learning more about JechSpace?
-📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-📞 Phone: +234 XXX XXX XXXX
-🌐 Website: *coming soon*
+* 📧 Email: [[jechspace@gmail.com](mailto:jechspace@gmail.com)]
+* 🌐 Website: *https://jechspace.com*
 
 ---
 
