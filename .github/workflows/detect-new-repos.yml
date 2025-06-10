@@ -1,9 +1,11 @@
 name: Detect New Repositories
 
-on:
-  schedule:
-    - cron: "*/10 * * * *"  # Runs every ten minutes
-  workflow_dispatch:  # Allows manual execution if needed
+# DISABLED: This workflow is temporarily disabled to prevent detecting new repositories and triggering the sync workflow.
+# To re-enable, uncomment the trigger section below.
+#on:
+#  schedule:
+#    - cron: "*/10 * * * *"  # Runs every ten minutes
+#  workflow_dispatch:  # Allows manual execution if needed
 
 jobs:
   check_new_repos:

@@ -1,8 +1,10 @@
 name: Sync Community Files to New Repos
 
-on:
-  repository_dispatch:
-    types: [new_repo_created]  # Triggered by the detect-new-repos workflow
+# DISABLED: This workflow is temporarily disabled to prevent automatic syncing of community files to new repositories.
+# To re-enable, uncomment the trigger section below.
+#on:
+#  repository_dispatch:
+#    types: [new_repo_created]  # Triggered by the detect-new-repos workflow
 
 jobs:
   sync_files:
